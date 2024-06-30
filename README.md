@@ -4,7 +4,7 @@ Bem-vindo ao projeto LiterAlura! Este projeto foi desenvolvido como parte de um 
 
 ## Descrição do Projeto
 
-Neste projeto, você aprenderá a:
+Neste projeto, você aprendi a:
 - Realizar solicitações a uma API de livros.
 - Manipular dados JSON.
 - Armazenar dados em um banco de dados.
